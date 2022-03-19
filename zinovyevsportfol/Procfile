@@ -1,0 +1,1 @@
+web: gunicorn zinovyevsportfol.wsgi --log-file -
